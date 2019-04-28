@@ -4,5 +4,5 @@ Convert spreadsheet file to a JSON file
 ## CLI arguments
 **No sheet name**    
 ```java -jar SpreadsheetToJson.jar path/to/input.xlsx path/to/output.json```    
-**User given delimiter**    
+**Add sheet name**    
 ```java -jar SpreadsheetToJson.jar path/to/input.xlsx path/to/output.json addSheetName```
