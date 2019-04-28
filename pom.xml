@@ -13,8 +13,8 @@
     </properties>
     
     <modules>
-        <module>CsvToSpreadsheet</module>
         <module>CsvToJson</module>
+        <module>CsvToSpreadsheet</module>
         <module>SpreadsheetToJson</module>
     </modules>
     

@@ -1,5 +1,5 @@
 # CsvToSpreadsheet
-Convert a CSV to a spreadsheet workbook with multiple sheets
+Convert a CSV file to a spreadsheet file with multiple sheets
 
 ## CLI arguments
 **Default delimiter ";"**    

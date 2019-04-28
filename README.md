@@ -5,10 +5,10 @@ Convert between different text formats. CSV->JSON, CSV-Spreadsheet, Spreadsheet-
 Se README in each module for detailed descriptions
 
 ### CsvToJson
-Convert CSV to JSON
+Convert a CSV file to a JSON file
 
 ### CsvToSpreadsheet
-Convert CSV to spreadsheet
+Convert a CSV file to a spreadsheet file with multiple sheets
 
 ### SpreadsheetToJson
-Convert spreadsheet to JSON
+Convert spreadsheet file to a JSON file

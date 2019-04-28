@@ -1,18 +1,8 @@
-# CsvToSpreadsheet
-Convert a CSV to a spreadsheet workbook with multiple sheets
+# SpreadsheetToJson
+Convert spreadsheet file to a JSON file
 
 ## CLI arguments
-**Default delimiter ";"**    
-```java -jar CsvToSpreadsheet.jar path/to/input.csv path/to/output.xlsx```    
+**No sheet name**    
+```java -jar SpreadsheetToJson.jar path/to/input.xlsx path/to/output.json```    
 **User given delimiter**    
-```java -jar CsvToSpreadsheet.jar path/to/input.csv path/to/output.xlsx delimiter```
-
-## CSV Format
-```
-[My first sheet]
-a;b;c;d
-e;f;g;h
-[My second sheet]
-a;b;c;d
-e;f;g;h
-```
+```java -jar SpreadsheetToJson.jar path/to/input.xlsx path/to/output.json addSheetName```
